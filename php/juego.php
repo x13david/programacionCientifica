@@ -9,8 +9,7 @@ echo $i;
 function disparar( $a){
 if($a>0){
 
-	echo "hola hijos de puta";
-	
+	echo "ffffff"
 }
 }
 
